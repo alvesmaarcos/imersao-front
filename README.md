@@ -12,5 +12,8 @@ O projeto consiste na criação de uma página web para o desenvolvedor, que pod
 - [x] Propriedades CSS;
 - [x] Criar um arquivo externo para estilizar a página;
 - [x] Integrar o arquivo CSS ao arquivo HTML.
+- [x] Layout Flexbox, Pseudoclasses e responsividade em CSS.
+- [x] CSS Grid, Media Queries e Manipulação do DOM com JavaScript.
+- [x] Introdução ao React e Angular.
 
 Em breve, o módulo principal se iniciará, e o projeto Portfolio será finalizado. Por ora, os arquivos neste repositórios deverão ser considerados incompletos.
